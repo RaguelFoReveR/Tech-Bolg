@@ -9,7 +9,7 @@
 
 
 # 一二线运维篇
-
+[1.桌面运维相关知识](https://github.com/RaguelFoReveR/Tech-Bolg/issues/1)
 
 
 
