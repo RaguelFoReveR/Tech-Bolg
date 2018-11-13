@@ -19,5 +19,5 @@
 
 
 # Js（高程）篇
-[P64-65  JavaScript学习笔记第三章](https://github.com/RaguelFoReveR/Tech-Bolg/issues/4)
+[P64-65  JavaScript学习笔记第三章---关于字符串（str）数组（arr）实参(arg)长度中的空格问题](https://github.com/RaguelFoReveR/Tech-Bolg/issues/4)
    
