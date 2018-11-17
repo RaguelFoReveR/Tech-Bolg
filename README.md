@@ -14,8 +14,8 @@
 
 
 
-# Html和Css基础篇
-
+# Html和Css基础篇(head first)
+[P67绝对路径和相对路径](https://github.com/RaguelFoReveR/Tech-Bolg/issues/7)
 
 
 # Js（高程）基础篇
