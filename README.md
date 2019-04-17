@@ -11,7 +11,7 @@
 # 一二线运维篇
 [1.桌面运维相关知识](https://github.com/RaguelFoReveR/Tech-Bolg/issues/1)
 
-
+[2.交换机配置与升级]（https://github.com/RaguelFoReveR/Tech-Bolg/issues/9）
 
 
 # Html和Css基础篇(head first)
