@@ -1,5 +1,6 @@
 # makdown语法学习
- [1.基础部分](https://github.com/RaguelFoReveR/Tech-Bolg/issues/5)
+ [1.基础部分](https://github.com/RaguelFoReveR/Tech-Bolg/issues/5)<br/>
+ [2.参考文档](https://docs.github.com/cn/github/writing-on-github/basic-writing-and-formatting-syntax)
 
 
 
