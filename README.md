@@ -10,5 +10,5 @@
 [3.linux运维知识汇](https://github.com/RaguelFoReveR/Tech-Bolg/issues/21)<br/>
 
 # 预算管理系统制作过程
-需求分析
+[1.工号带出其他信息功能](https://github.com/RaguelFoReveR/Tech-Bolg/issues/23)
 
